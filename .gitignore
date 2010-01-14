@@ -1,0 +1,6 @@
+lib/*
+lib_managed/*
+project/build/target
+project/boot
+target/*
+*~
