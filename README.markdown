@@ -1,10 +1,12 @@
-=WHAT'S THIS?
+What's this?
+============
 An GeoHash library for Scala.
 
 It is originally implemented by @yuroyoro.
 Actually what I have done is just implementing the encoding functionality, for now.
 
-=GETTING STARTED
+Getting Started
+===============
 % git clone git://github.com/mumoshu/geohash-scala.git
 % cd geohash-scala
 % sbt
